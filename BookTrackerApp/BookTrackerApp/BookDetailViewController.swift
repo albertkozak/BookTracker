@@ -9,10 +9,10 @@
 import UIKit
 
 class BookDetailViewController: UIViewController {
-
+  var book: Book?
     override func viewDidLoad() {
-        super.viewDidLoad()
-
+    super.viewDidLoad()
+      self.title = book?.title
         // Do any additional setup after loading the view.
     }
     
