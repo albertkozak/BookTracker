@@ -14,6 +14,7 @@
 		0FE332AE23FCBBDC000B924E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FE332AD23FCBBDC000B924E /* Assets.xcassets */; };
 		0FE332B123FCBBDC000B924E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FE332AF23FCBBDC000B924E /* LaunchScreen.storyboard */; };
 		0FE332B923FCBFA6000B924E /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE332B823FCBFA6000B924E /* Book.swift */; };
+		0FE332BB23FCC632000B924E /* BookDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FE332BA23FCC632000B924E /* BookDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0FE332B023FCBBDC000B924E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FE332B223FCBBDC000B924E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0FE332B823FCBFA6000B924E /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		0FE332BA23FCC632000B924E /* BookDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				0FE332A623FCBBDB000B924E /* SceneDelegate.swift */,
 				0FE332A823FCBBDB000B924E /* ViewController.swift */,
 				0FE332AA23FCBBDB000B924E /* Main.storyboard */,
+				0FE332BA23FCC632000B924E /* BookDetailViewController.swift */,
 				0FE332B823FCBFA6000B924E /* Book.swift */,
 				0FE332AD23FCBBDC000B924E /* Assets.xcassets */,
 				0FE332AF23FCBBDC000B924E /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				0FE332A923FCBBDB000B924E /* ViewController.swift in Sources */,
 				0FE332A523FCBBDB000B924E /* AppDelegate.swift in Sources */,
 				0FE332A723FCBBDB000B924E /* SceneDelegate.swift in Sources */,
+				0FE332BB23FCC632000B924E /* BookDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
